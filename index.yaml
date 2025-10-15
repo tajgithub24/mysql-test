@@ -3,12 +3,12 @@ entries:
   mysql-test-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-10-15T08:27:59.944840713Z"
+    created: "2025-10-15T08:35:55.773862261Z"
     description: A Helm chart for Kubernetes
-    digest: 8d87d24eb870c5dba8794071971f54a760b27d9983d557c7b896439b960435eb
+    digest: 18968df6e00b70aa718480a83102aacba309b2db595597389caa28557abc74f6
     name: mysql-test-chart
     type: application
     urls:
     - https://tajgithub24.github.io/mysql-test/mysql-test-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-10-15T08:27:59.944255206Z"
+generated: "2025-10-15T08:35:55.773313313Z"
